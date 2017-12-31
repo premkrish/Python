@@ -6,7 +6,7 @@ and then use help(set."props/methods") - Ex: help(set.add) to get more insight o
 testset = set()
 print(testset)
 
-#Instantitate a set with values
+#Instantitate a set with values - sets doesn't maintain order
 testset1 = set([10, 3.14567, True, "Test"])
 print(testset1)
 
